@@ -93,13 +93,13 @@ class_date <- syllabusr::make_class_date(base_date, 'TuTh')
 
 ## Quick links
 
-**Class meetings**: Tuesdays and Thursdays, 2:00-3:30PM, 60 Evans Hall   
+**Class meetings**: Tuesdays and Thursdays, 2:00-3:30PM, 166 Social Science Building 
 <BR>
 **Web**: <https://www.dennisfeehan.org/demog180-fa2024>   
-**Ed page**: <!-- <https://edstem.org/us/courses/43235/discussion/> -->
-**Gradescope page**: <!-- <https://www.gradescope.com/courses/588220> -->
-**Bcourses page**: <!-- <https://bcourses.berkeley.edu/courses/1528163>    -->
-**Lecture slides**: <!-- <https://drive.google.com/drive/folders/1LSsJnCvyzQOyHhVxFQI4abtwubmCV-DT>  -->
+**Ed page**: <https://edstem.org/us/courses/62283/discussion/>
+**Gradescope page**: <https://www.gradescope.com/courses/823074> 
+**Bcourses page**: <https://bcourses.berkeley.edu/courses/1537401>
+**Lecture slides**: <https://drive.google.com/drive/u/0/folders/1Hd7PD84a60r11dcRhMQx4axd0A-vdrRN>
 <BR>
 **Final exam**: TBA 
 <BR>
