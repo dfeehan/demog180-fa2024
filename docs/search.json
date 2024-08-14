@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Social Networks (Demography 180)",
@@ -11,7 +18,7 @@
     "href": "index.html#quick-links",
     "title": "Social Networks (Demography 180)",
     "section": "Quick links",
-    "text": "Quick links\nClass meetings: Tuesdays and Thursdays, 2:00-3:30PM, 166 Social Science Building  Web: https://www.dennisfeehan.org/demog180-fa2024\nEd page: https://edstem.org/us/courses/62283/discussion/ Gradescope page: https://www.gradescope.com/courses/823074 Bcourses page: https://bcourses.berkeley.edu/courses/1537401 Lecture slides: https://drive.google.com/drive/u/0/folders/1Hd7PD84a60r11dcRhMQx4axd0A-vdrRN  Final exam: TBA"
+    "text": "Quick links\nClass meetings: Tuesdays and Thursdays, 12:30-2:00PM, 166 Social Science Building  Web: https://www.dennisfeehan.org/demog180-fa2024\nEd page: https://edstem.org/us/courses/62283/discussion/ Gradescope page: https://www.gradescope.com/courses/823074 Bcourses page: https://bcourses.berkeley.edu/courses/1537401 Lecture slides: https://drive.google.com/drive/u/0/folders/1Hd7PD84a60r11dcRhMQx4axd0A-vdrRN  Final exam: TBA"
   },
   {
     "objectID": "index.html#staff",
@@ -47,12 +54,5 @@
     "title": "Social Networks (Demography 180)",
     "section": "Other class policies",
     "text": "Other class policies\nReligious Accommodations\nRequests to accommodate a student’s religious creed by scheduling tests or examinations at alternative times should be submitted directly to the instructor. Reasonable common sense, judgment and the pursuit of mutual goodwill should result in the positive resolution of scheduling conflicts. The regular campus appeals process applies if a mutually satisfactory arrangement cannot be achieved.\nStatement on Academic Freedom\nBoth students and instructors have rights to academic freedom. Please respect the rights of others to express their points of view in the classroom.\nDSP Accommodations\nThe purpose of academic accommodations is to ensure that all students have a fair chance at academic success. Disability, or hardships such as basic needs insecurity, uncertain documentation and immigration status, medical and mental health concerns, pregnancy and parenting, significant familial distress, and experiencing sexual violence or harassment, can affect a student’s ability to satisfy particular course requirements. Students have the right to reasonable academic accommodations, without having to disclose personal information to instructors. For more information about accommodations, scheduling conflicts related to religious creed or extracurricular activities, please see the Academic Accommodations hub website.\nStudent Resources\nThe Student Learning Center provides a wide range of resources to promote learning and academic success for students. For information regarding these services, please consult the Student Learning Center Website: https://slc.berkeley.edu/\nClassroom Climate\nWe are all responsible for creating a learning environment that is welcoming, inclusive, equitable, and respectful. If you feel that these expectations are not being met, you can consult your instructor(s) or seek assistance from campus resources (see the Academic Accommodations website).\nAcademic Integrity\nThe high academic standard at the University of California, Berkeley, is reflected in each degree that is awarded. As a result, every student is expected to maintain this high standard by ensuring that all academic work reflects unique ideas or properly attributes the ideas to the original sources.\nThese are some basic expectations of students with regards to academic integrity:\n\nAny work submitted should be your own individual thoughts, and should not have been submitted for credit in another course unless you have prior written permission to re-use it in this course from this instructor.\nAll assignments must use “proper attribution,” meaning that you have identified the original source and extent or words or ideas that you reproduce or use in your assignment. This includes drafts and homework assignments!\nIf you are unclear about expectations, ask your instructor or GSI.\nDo not collaborate or work with other students on assignments or projects unless you have been given permission or instruction to do so."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
