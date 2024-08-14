@@ -1,0 +1,39 @@
+
+<!-- LINK REFERENCES -->
+
+[lab0]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab0%2Flab0-rev.ipynb&branch=main -->
+[lab1]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab1%2Flab_complete_network_data.ipynb&branch=main2 -->
+[lab2]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab2%2Flab2_personal_networks.ipynb&branch=main -->
+[lab3]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab3%2Flab03_homophily.ipynb&branch=main -->
+[lab4]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab%25204%2Flab04_affiliation_networks.ipynb&branch=main  -->
+[lab5]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flab%2Flab5%2Flab5_centrality_sirmodel.ipynb&branch=main  -->
+
+
+[hwk1]: <!-- https://tinyurl.com/demog180-fa23-hwk01 -->
+[hwk2]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk02%2Fhwk_clusteringcoef.ipynb&branch=main -->
+[hwk3]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk03%2Fhwk03_personal_networks.ipynb&branch=main -->
+[hwk4]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk04%2Fhw04_balance_smallworlds.ipynb&branch=main -->
+[hwk5]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk05%2Fhwk05_small_worlds.ipynb&branch=main-->
+[hwk6]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Fhwk%2Fhwk06%2Fhw06_centrality.ipynb&branch=main -->
+
+[whole network demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F02_working_with_whole_network_data%2F02_intro_to_whole_network_data.ipynb&branch=main -->
+[triadic closure demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Ftriadic_closure%2Femail-eu-core.ipynb&branch=main -->
+[sowt demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fstrength_of_weak_ties%2Fsowt_wiki_talk.ipynb&branch=main -->
+[structural balance demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fstrength_of_weak_ties%2Fsowt_wiki_talk.ipynb&branch=main -->
+[er demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fer_random_networks%2Fer_random_networks.ipynb&branch=main -->
+[Two mode network demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Ftwo_mode_networks%2Ftwo_mode_networks.ipynb&branch=main -->
+[netlogo ba model]: <!-- https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Preferential%20Attachment.nlogo-->
+[Community detection]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fcommunity_detection%2Flecture_examples_community_detection.ipynb&branch=main)-->
+[sir thresh demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2023&urlpath=tree%2Fdemog180-fa2023%2Flecture%2Fsir_model%2Fsir_threshold_infectiousness.ipynb&branch=main -->
+[SIR demo]: <!-- https://shiny.demog.berkeley.edu/dennis/model-SIR/ -->
+[network SIR demo]: <!-- http://shiny.demog.berkeley.edu/dennis/shiny-SimNetwork/ -->
+
+
+[personal networks demo]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flecture%2F01_surveys%2F01_ucb_personal_networks.ipynb&branch=main -->
+[ipd demo]: <!-- http://datahub.berkeley.edu/user-redirect/interact?account=dfeehan&repo=demog180-sp2019&branch=master&path=lecture/08_cooperation/ipd_tournament.ipynb -->
+[concurrency]: <!-- http://shiny.demog.berkeley.edu/dennis/concurrency/ -->
+[hwk7]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Fhwk%2Fhw7%2Fhw7.ipynb&branch=main -->
+[lab6]: <!-- https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdfeehan%2Fdemog180-fa2022&urlpath=tree%2Fdemog180-fa2022%2Flab%2Flab6%2Flab6.ipynb&branch=main -->
+
+[midtermvotes]: <!-- http://www.allourideas.org/demog180midterm2022 -->
+
