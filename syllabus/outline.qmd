@@ -27,23 +27,24 @@ from Data 8 - basically, to test submission pipeline
 TODO - some kind of support / reading for students would be helpful
 
 ## Hwk 01 - collecting personal network survey data [old hwk01]
+
+  Goals:
+  - understand how personal network data are collected (reflect on strengths + limitations)
+  - understand quantitative features of UC Berkeley student personal networks
+  - collect ARD info on UC Berkeley students (later used in a lecture demo)
+  ? collect interpersonal contact info on UC Berkeley students?
+  - ask students: what is a name generator q you think would be effective at eliciting information about social isolation at UC Berkeley?
+
 ## Lab 01 - analyzing personal network survey data [old lab02]
     -> TODO - this should incorporate new material reviewing sampling + the bootstrap
     -> goals: work with personal network survey data (reshape, etc)
     -> goals: some kind of hypothesis test for significance
+    -> analyze personal network data from GSS (old hwk 01)
     
-
-
-Goals:
-- understand how personal network data are collected (reflect on strengths + limitations)
-- understand quantitative features of UC Berkeley student personal networks
-- collect ARD info on UC Berkeley students (later used in a lecture demo)
-? collect interpersonal contact info on UC Berkeley students?
-- ask students: what is a name generator q you think would be effective at eliciting information about social isolation at UC Berkeley?
-
 ## Hwk 02 - analyzing personal network data from the GSS
 
-Goals: assess skills from Lab 01
+Goals: use skills from lab 01 to analyze personal network data we collected on the our survey
+(so, take analysis of last year's hwk 02 but update it to be about this year's student survey data)
 
 ## Lab 02 - working w/ complete network data [old lab01 + lecture demo]
 

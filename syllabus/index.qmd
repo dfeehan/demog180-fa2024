@@ -269,19 +269,24 @@ The readings serve two purposes: (1) they provide an introduction and reference 
 
 ### Homeworks and labs
 
-There will be a total of 6 to 8 homework assignments and a similar number of labs. The homeworks and labs are a critical part of the learning you will do in this class: they give you an opportunity to explore the topics we cover in the readings and in lecture on your own. They also give you a chance to practice your writing and your data analysis and programming skills.  Most homeworks and labs will ask you to provide some written arguments and to solve some problems by writing Python code in a Jupyter notebook.  It can be helpful and educational to discuss the assignments with other students in the class, but (1) all of the work should be your own (i.e., you are not allowed to just copy code, answers, or arguments); (2) you should make a note of the names of the other students you worked with when handing your assignments in.
+There will be a total of 6 to 8 homeworks, a similar number of labs, and one mini-project.  These assignments are a critical part of the learning you will do in this class: they give you an opportunity to explore the topics we cover in the readings and in lecture on your own. They also give you a chance to practice your writing and your data analysis and programming skills.  Most homeworks and labs will ask you to provide some written arguments and to solve some problems by writing Python code in a Jupyter notebook.  
 
 Labs are graded based on effort; therefore, you can get full credit on a lab even if you do not get all of the answers right. Labs must be handed in on time for full credit. 
 
-Homeworks are graded on correctness and must be handed in on time for full credit. However, we will drop the homework with the lowest score; thus, you can miss handing in one homework over the course of the semester without it affecting your grade.
+Homeworks and are graded on correctness and must be handed in on time for full credit. However, we will drop the homework with the lowest score; thus, you can miss handing in one homework over the course of the semester without it affecting your grade. (Note that you cannot drop the grade for the mini-project.)
+
+The mini-project is like an extended homework that comes after all of the notebook-based homeworks. The goal is to give you a chance to start from scratch with a new network dataset and to demonstrate that you can perform an analysis on the network with minimal hand-holding. It will count as two homeworks.
+
+**Collaboration**: It can be helpful and educational to discuss the assignments with other students in the class, but (1) all of the work should be your own (i.e., you are not allowed to just copy code, answers, or arguments); (2) you should make a note of the names of the other students you worked with when handing your assignments in.
+
 
 ### Exams
 
 There will be two in-class closed book examinations. The mid-term examination will be held during normal class time in our normal classroom; the timing of this midterm will be designed to assess your mastery of the core concepts in social networks. The final will be held during the final exam period (see the date/time above). The final exam will be cumulative.
 
-### Quizzes
+### Participation and quizzes
 
-We will post a small number (2-4) quizzes on bCourses over the semester. These quizzes will consist of 5-10 multiple choice questions; the goal of these quizzes will be to ensure that you are staying up to date with the reading and lecture materials covered in the class (including guest lectures).
+In some lectures, you will be asked to participate in discussions and interactive demonstrations. There will also be a small number (about 2) quizzes on bCourses over the semester. These quizzes will consist of a few multiple choice questions; the goal of these quizzes will be to ensure that you are staying up to date with the reading and lecture materials covered in the class (including guest lectures). 
 
 <!--### Sections                                                                                                                                                                                                                       -->
 
@@ -292,25 +297,26 @@ We will post a small number (2-4) quizzes on bCourses over the semester. These q
 
 |  Component | % of grade |
 |  ------ | ------ |
-|  Homeworks (you can drop your lowest score) | 30 |
-|  Labs  | 20 |
+|  Homeworks (you can drop your lowest score) | 35 |
+|  Labs  | 15 |
 |  Mid-term exam | 20 |
 |  Final exam | 25 |
-|  Quizzes | 5 |
+|  Participation + Quizzes | 5 |
 
 ## Detailed modules
 
 <div class="singlespace">
 
-### Introduction to social networks {#sec:intro}
+### Introduction to social networks and Personal networks {#sec:intro}
 	
-Intro to social networks; course overview
+<!-- Intro to social networks; course overview
 
 Lectures:
 
 * Intro / what social networks are / class info
 * Basic graph theory: definitions, types of networks; working with complete network data; degree distributions, average path length, clustering
 
+-->
 <!--
 * Lecture demo [Lecture demo: Working with complete network data ][whole network demo]
 
@@ -318,18 +324,18 @@ Other resources:
 
 * Lab 2 [Lab 2: Working with complete network data][lab2]
 * Hwk 3 [Hwk 3: Calculating average clustering in complete networks][hwk3]
--->
 Other resources:
 
-* [Lab 0: some Python basics][lab0]
+* Lab 0: some Python basics][lab0]
 * Lab 1: some Python basics
 * Hwk 2: the clustering coefficient
+-->
 
 Reading: 
 
 * @watts_six_2003 preface-Ch.1
 * @easley_networks_2010 Ch.1-Ch.2
-
+* [optional] Fischer, [*Still connected*](https://muse.jhu.edu/book/15006), esp. Ch. 2 and 7 
 
 <!--
 #### Homework 1 {#sec:hwk1}
