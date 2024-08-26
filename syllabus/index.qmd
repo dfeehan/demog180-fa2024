@@ -309,201 +309,48 @@ In some lectures, you will be asked to participate in discussions and interactiv
 
 ### Introduction to social networks and Personal networks {#sec:intro}
 	
-<!-- Intro to social networks; course overview
-
-Lectures:
-
-* Intro / what social networks are / class info
-* Basic graph theory: definitions, types of networks; working with complete network data; degree distributions, average path length, clustering
-
--->
-<!--
-* Lecture demo [Lecture demo: Working with complete network data ][whole network demo]
-
-Other resources:
-
-* Lab 2 [Lab 2: Working with complete network data][lab2]
-* Hwk 3 [Hwk 3: Calculating average clustering in complete networks][hwk3]
-Other resources:
-
-* Lab 0: some Python basics][lab0]
-* Lab 1: some Python basics
-* Hwk 2: the clustering coefficient
--->
-
 Reading: 
 
 * @watts_six_2003 preface-Ch.1
 * @easley_networks_2010 Ch.1-Ch.2
 * [optional] Fischer, [*Still connected*](https://muse.jhu.edu/book/15006), esp. Ch. 2 and 7 
 
-<!--
-#### Homework 1 {#sec:hwk1}
 
-* [Assignment](https://tinyurl.com/demog180-fa22-hwk01)
--->
-
-
-### Personal networks {#sec:personal}
-
-Lectures:
-
-* Personal networks; social connectedness and social isolation in America; survey data collection
-* Sampling variation and the bootstrap; null models and a permutation test
-* Patterns of homophily in Berkeley students' personal networks
-
-Other resources:
-
-* Hwk 1: Collecting personal network data
-
-<!--
-* [Lecture demo: Personal networks of Berkeley students][personal networks demo]
-
-Other resources:
-
-* Lab: Analyzing personal networks [part 1][lab1_1] [part 2][lab1_2]
-* Hwk 2  [Homework 2: Analyzing personal networks][hwk2]
--->
-
-<!--
-Reading: 
-
-TODO - would be good to have a reading for this...
-
--->
-
-
-### Triadic closure / strength of weak ties / social capital {#sec:closure-sowt}
-
-Lectures:
-
-* Triadic close; strength of weak ties 
-* Social capital; structural holes
-
-Other resources:
-<!--
-* Lecture demo: [Strength of weak ties in the wiki talk network][sowt demo]
--->
+### Network structure: foundations {#sec:structure}
 
 Reading:
 
-* @easley_networks_2010 Ch. 3.1-3.3 (Tie strength)
+* @easley_networks_2010 Ch. 3.1-3.3 (Triadic closure + tie strength)
 * @easley_networks_2010 Ch. 3.5 (Social capital)
+* @easley_networks_2010 Ch.5.1-5.2 (Positive and negative relationships)
+* [Friends you can count on](https://opinionator.blogs.nytimes.com/2012/09/17/friends-you-can-count-on/)
+* [Why your friends have more friends than you do](https://www.journals.uchicago.edu/doi/abs/10.1086/229693)
+* TBD - possibly some empirical examples
 
-### Homophily and balance theory {#sec:homophily-balance}
-
-Lectures:
-
-* Networks in context; homophily: choice and structure; social implications
-* Positive and negative relationships
-
-Other resources:
-* Lab - Using a null model to analyze empirical data; homophily example
-
-<!--
-* [Lecture demo: Structural balance in the small slashdot network][structural balance demo]
--->
+### Models of network formation {#sec:models}
 
 Reading:
 
-* @easley_networks_2010 Ch.5.1-5.2 (Positive and negative relationships)
+* @watts_six_2003 Ch. 2 (Random networks)
 
-<!--
-* Lab [Using the assortativity coefficient to quantify homophily][lab3]
--->
-
-
-
-### Network models: the ER model {#sec:models}
-
-Lectures:
-
-* Intro to mathematical network models; the Erdos-Renyi model and its predictions
-
-<!--
-* Lecture demo [Lecture demo: Erdos-Renyi random networks notebook][er demo]
--->
-
-Readings:
-
-* @watts_six_2003 Ch. 2
-
-
-### Affiliation networks {#sec:affiliation}
-
-Lectures:
-
-* Affiliation networks; foci; group membership; one-mode projections of bipartite networks
-
-<!--
-* [Lecture demo: Two mode network demo][Two mode network demo]
--->
+### Small worlds and beyond {#sec:smallworlds}
 
 Readings:
 
 * @easley_networks_2010 Ch.4.3-4.4 (Affiliation networks)
-w
-
-### Small worlds {#sec:smallworlds}
-
-Lectures:
-
-* The small world phenomenon
-
-Readings:
-
-* @watts_six_2003 Ch. 3-4
+* @watts_six_2003 Ch. 3 (Small worlds)
+* @watts_six_2003 Ch. 4 (Beyond small worlds; scale-free networks)
 * @easley_networks_2010 Ch. 20.1-20.2 (Small worlds)
-
-
-### Search in small worlds and scale-free networks {#sec:scalefree}
-
-Lectures:
-
-* Search in small world
-* Scale-free networks
-
-<!--
-* [Netlogo demo of Barabasi-Albert model][netlogo ba model]
--->
-
-Readings:
-
-* @watts_six_2003 Ch. 4-5
+* @watts_six_2003 Ch. 5 (Search in networks)
 * @easley_networks_2010 Ch. 20.3-20.5 (Search in small worlds)
 * @easley_networks_2010 Ch. 18.1-18.5 (Scale-free networks)
 
-
-### Empirical studies of network structure {#sec:networkstructure}
-
-We will discuss results from several recent research papers relevant to
-network structure.
-
-
-### Catch-up, review, and midterm {#sec:midterm}
-
-Lectures:
-
-* Catch-up and midterm review
-
 ### Simple contagion {#sec:simplecontagion}
-
-Lectures:
-
-* SIR model, types of centrality
-* @easley_networks_2010 Ch. 21.1-21.3 (The SIR epidemic model)
-* Why your friends have more friends than you do; network structure and disease; measuring contact networks
 
 Reading:
 
 * @watts_six_2003 Ch.6
-* Notebook: Centrality and the SIR model on ER random networks
-
-
-
-#### Homework 4 {#sec:hwk4}
-
-* Homework 4 - SIR models and centrality (to be posted)
+* @easley_networks_2010 Ch. 21.1-21.3 (The SIR epidemic model)
 
 ### Concurrency in sexual networks {#sec:concurrency}
 
@@ -516,11 +363,6 @@ Reading:
 
 ### Cooperation {#sec:cooperation}
 
-Lectures:
-
-* Cooperation 
-* Guest lecture: Ugur Yildirim 
-
 Reading:
 
 * @easley_networks_2010 Ch. 6.1-6.2 
@@ -531,52 +373,17 @@ Reading:
 
 ### Social influence {#sec:socialinfluence}
 
-Lectures:
-
-* Social influence
-* Threshold models
-
 Reading:
 
 * @easley_networks_2010 Ch. 16.1-16.2; parts of 16.3-16.6; 16.7
-* @watts_six_2003 Ch. 7
-
+* @watts_six_2003 Ch. 7 
 
 ### Complex contagion {#sec:complexcontagion}
-
-Lectures:
-
-* Complex contagion; decisions, threshold models
-* Experimental studies of complex contagion
-* Is obesity contagious? Observational studies of network contagion
 
 Reading:
 
 * @watts_six_2003 Ch. 8
 * @easley_networks_2010 Ch. 19.1-19.6
-
-
-<!--
-#### Homework 5 {#sec:hwk5}
-
-* Homework 5 - Small worlds (to be posted)
-
--->
-
-### The friendship paradox {#sec:friendshipparadox}
-
-#### Homework 6 and Quiz 3 {#sec:hwk6}
-
-Reading:
-
-* [Friends you can count on](https://opinionator.blogs.nytimes.com/2012/09/17/friends-you-can-count-on/)
-* [Why your friends have more friends than you do](https://www.journals.uchicago.edu/doi/abs/10.1086/229693)
-
-
-### Empirical studies of contagion {#sec:empiricalcontagion}
-
-Reading:
-
 * [Study says obesity can be contagious](https://www.nytimes.com/2007/07/25/health/25cnd-fat.html)
 
 
@@ -627,5 +434,6 @@ These are some basic expectations of students with regards to academic integrity
 
 * Any work submitted should be your own individual thoughts, and should not have been submitted for credit in another course unless you have prior written permission to re-use it in this course from this instructor.
 * All assignments must use "proper attribution," meaning that you have identified the original source and extent or words or ideas that you reproduce or use in your assignment. This includes drafts and homework assignments!
+* In general, you should not turn in work that was done by an AI tool, such as an LLM (like ChatGPT). If you have any questions, please ask an instructor.
 * If you are unclear about expectations, ask your instructor or GSI.
 * Do not collaborate or work with other students on assignments or projects unless you have been given permission or instruction to do so.
