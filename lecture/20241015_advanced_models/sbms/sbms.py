@@ -3,8 +3,9 @@ matplotlib.use('Agg')
 
 import matplotlib.pyplot as plt
 from matplotlib import pyplot, patches
-import numpy as np
 plt.style.use('fivethirtyeight')
+
+import numpy as np
 
 
 import os
@@ -57,7 +58,7 @@ def draw_adjacency_matrix(G, node_order=None, partitions=[], colors=[]):
     If partitions is specified, the same number of colors needs to be
     specified.
     """
-    adjacency_matrix = nx.to_numpy_matrix(G, dtype=np.bool, nodelist=node_order)
+    adjacency_matrix = nx.to_numpy_matrix(G, dtype=bool, nodelist=node_order)
 
     #Plot adjacency matrix in toned-down black and white
     fig = pyplot.figure(figsize=(5, 5)) # in inches
